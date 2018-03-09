@@ -1,0 +1,10 @@
+C:\Users\alandeta\Documents\Visual Studio 2017\Projects\AuthAzureADv2\AuthAzureADv2\bin\Debug\AuthAzureADv2.exe.config
+C:\Users\alandeta\Documents\Visual Studio 2017\Projects\AuthAzureADv2\AuthAzureADv2\bin\Debug\AuthAzureADv2.exe
+C:\Users\alandeta\Documents\Visual Studio 2017\Projects\AuthAzureADv2\AuthAzureADv2\bin\Debug\AuthAzureADv2.pdb
+C:\Users\alandeta\Documents\Visual Studio 2017\Projects\AuthAzureADv2\AuthAzureADv2\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\alandeta\Documents\Visual Studio 2017\Projects\AuthAzureADv2\AuthAzureADv2\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\alandeta\Documents\Visual Studio 2017\Projects\AuthAzureADv2\AuthAzureADv2\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\alandeta\Documents\Visual Studio 2017\Projects\AuthAzureADv2\AuthAzureADv2\obj\Debug\AuthAzureADv2.csprojResolveAssemblyReference.cache
+C:\Users\alandeta\Documents\Visual Studio 2017\Projects\AuthAzureADv2\AuthAzureADv2\obj\Debug\AuthAzureADv2.csproj.CoreCompileInputs.cache
+C:\Users\alandeta\Documents\Visual Studio 2017\Projects\AuthAzureADv2\AuthAzureADv2\obj\Debug\AuthAzureADv2.exe
+C:\Users\alandeta\Documents\Visual Studio 2017\Projects\AuthAzureADv2\AuthAzureADv2\obj\Debug\AuthAzureADv2.pdb
